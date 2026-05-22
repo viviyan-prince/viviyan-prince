@@ -146,9 +146,12 @@ C • SQL • GitHub • Open Source • AI • Cybersecurity • Web Developmen
 
 <p align="center">
 
-```txt
-"To understand how a system works, you must push it to its limits. 
+<i>
+"To understand how a system works, you must push it to its limits.  
 True strength is only revealed when you discover exactly what it takes to break it."
+</i>
+
+</p>
 
 ---
 
@@ -167,7 +170,6 @@ True strength is only revealed when you discover exactly what it takes to break 
 ```txt
 while(!(succeed = try()));
 ```
----
 
 ## 📫 Reach Me
 
