@@ -110,31 +110,11 @@ C • SQL • GitHub • Open Source • AI • Cybersecurity • Web Developmen
 
 ---
 
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviyan-prince&layout=compact&theme=github_dark&hide_border=true" />
-
-</p>
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=viviyan-prince&theme=darkhub&no-frame=true&margin-w=10&row=1" />
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/viviyan-prince/viviyan-prince/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </p>
 
@@ -166,9 +146,13 @@ C • SQL • GitHub • Open Source • AI • Cybersecurity • Web Developmen
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1200&lines=To+understand+how+a+system+works%2C+you+must+push+it+to+its+limits.;True+strength+is+only+revealed+when+you+discover+exactly+what+it+takes+to+break+it." />
 
 </p>
+
+```txt
+"To understand how a system works, you must push it to its limits. 
+True strength is only revealed when you discover exactly what it takes to break it."
 
 ---
 
@@ -182,21 +166,11 @@ C • SQL • GitHub • Open Source • AI • Cybersecurity • Web Developmen
 
 ---
 
-# 📌 Featured Repositories
-
-<a href="https://github.com/viviyan-prince">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viviyan-prince&repo=YOUR_REPO_NAME&theme=github_dark" />
-</a>
-
----
-
 # ⚡ Fun Developer Quote
 
 ```txt
 while(!(succeed = try()));
 ```
-
----
 ---
 
 ## 📫 Reach Me
