@@ -159,7 +159,9 @@ True strength is only revealed when you discover exactly what it takes to break 
 
 <p align="center">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hwsf74voo5tvew6e3jaa7oq224&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+<a href="https://open.spotify.com/user/31hwsf74voo5tvew6e3jaa7oq224" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-Listen%20Along-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
 
 </p>
 
