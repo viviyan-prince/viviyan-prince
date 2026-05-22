@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Open+Source+Contributor;AI+%26+Cybersecurity+Enthusiast;Full+Stack+Developer;GSSoC+2026+Contributor;Competitive+Programmer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Open+Source+Contributor;AI+%26+Cybersecurity+Enthusiast;Full+Stack+Developer;GSSoC+2026+Contributor;Competitive+Programmer;Public+Speaker;Leadership+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -71,6 +71,8 @@
 - 🌐 Full Stack Web Development
 - ☁️ Cloud Computing
 - 🧠 Competitive Programming & DSA
+- 🎤 Public Speaking
+- 👑 Leadership & Team Collaboration
 
 ---
 
