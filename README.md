@@ -159,7 +159,7 @@ True strength is only revealed when you discover exactly what it takes to break 
 
 <p align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31hwsf74voo5tvew6e3jaa7oq224&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false" />
 
 </p>
 
