@@ -146,10 +146,6 @@ C • SQL • GitHub • Open Source • AI • Cybersecurity • Web Developmen
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1200&lines=To+understand+how+a+system+works%2C+you+must+push+it+to+its+limits.;True+strength+is+only+revealed+when+you+discover+exactly+what+it+takes+to+break+it." />
-
-</p>
-
 ```txt
 "To understand how a system works, you must push it to its limits. 
 True strength is only revealed when you discover exactly what it takes to break it."
