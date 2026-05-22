@@ -16,7 +16,7 @@
 
 🎓 First-Year Computer Science Engineering Student from Chennai, India  
 💻 Passionate about building impactful software and solving real-world problems  
-🌱 Currently exploring AI, Cybersecurity, Full Stack Development & Cloud Computing  
+🌱 Currently exploring AI, Cybersecurity & Cloud Computing  
 🔭 Contributing to Open Source Projects and improving development skills daily  
 🏆 Active Contributor in GSSoC 2026  
 ⚡ Interested in AI, Cybersecurity, IoT, Automation, Robotics & Startups  
@@ -66,9 +66,8 @@
 ## 🔭 Current Focus
 
 - 🚀 Open Source Contributions
-- 🤖 AI & Machine Learning
+- 🤖 AI & Robotics
 - 🔐 Cybersecurity & Ethical Hacking
-- 🌐 Full Stack Web Development
 - ☁️ Cloud Computing
 - 🧠 Competitive Programming & DSA
 - 🎤 Public Speaking
@@ -79,7 +78,6 @@
 ## 🤝 Looking To Collaborate On
 
 - Open Source Projects
-- AI/ML Applications
 - Web Development Projects
 - Cybersecurity Research
 - Innovative Student Projects
