@@ -159,7 +159,7 @@ True strength is only revealed when you discover exactly what it takes to break 
 
 <p align="center">
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31hwsf74voo5tvew6e3jaa7oq224&count=1" />/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31hwsf74voo5tvew6e3jaa7oq224&count=1" />
 
 </p>
 
