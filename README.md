@@ -90,7 +90,113 @@
 ```txt
 C • SQL • GitHub • Open Source • AI • Cybersecurity • Web Development • IoT • Student Tech Journey
 ```
+---
 
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=viviyan-prince&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" />
+
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=viviyan-prince&theme=github-dark-blue&hide_border=true&border_radius=10" />
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+[![Viviyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viviyan-prince&bg_color=000000&color=ffffff&line=00ffcc&point=ffffff&area=true&hide_border=true)](https://github.com/viviyan-prince)
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviyan-prince&layout=compact&theme=github_dark&hide_border=true" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=viviyan-prince&theme=darkhub&no-frame=true&margin-w=10&row=1" />
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/viviyan-prince/viviyan-prince/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=viviyan-prince&label=Profile%20Views&color=000000&style=for-the-badge" />
+
+</p>
+
+---
+
+# 🏅 GSSoC 2026
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/GSSoC-2026%20Contributor-black?style=for-the-badge&logo=github" />
+
+<img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-black?style=for-the-badge&logo=opensourceinitiative" />
+
+</p>
+
+---
+
+# 💡 Quote Of The Day
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</p>
+
+---
+
+# 🎧 Spotify Playing
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false" />
+
+</p>
+
+---
+
+# 📌 Featured Repositories
+
+<a href="https://github.com/viviyan-prince">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viviyan-prince&repo=YOUR_REPO_NAME&theme=github_dark" />
+</a>
+
+---
+
+# ⚡ Fun Developer Quote
+
+```txt
+while(!(succeed = try()));
+```
+
+---
 ---
 
 ## 📫 Reach Me
